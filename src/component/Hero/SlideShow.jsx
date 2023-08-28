@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+ 
 import React, { useState, useEffect } from 'react';
-=======
- import React, { useState, useEffect } from 'react';
->>>>>>> 72fcab0faa514ee49cdf74d55d643f8f5ce7442d
 import { BsArrowUpLeft, BsArrowUpRight } from 'react-icons/bs';
 import { AiFillStar, AiOutlineStar } from 'react-icons/ai';
 import img_01 from "../../img/head-1.jpg";

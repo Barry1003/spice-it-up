@@ -1,0 +1,7 @@
+.bgimg{
+      background-image: url(../../img/sectionbg.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      height: 500px;
+}

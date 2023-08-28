@@ -1,0 +1,12 @@
+.menu_content:hover{
+      box-shadow: 5px 7px 3px 6px rgb(2 2 2 / 49%);
+}
+
+.span::after{
+      content:"";
+      display:block;
+      width:8rem;
+      background: rgb(0, 119, 255);
+      height:5px;
+      border-radius:25px;
+}
